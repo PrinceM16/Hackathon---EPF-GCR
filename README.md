@@ -1,2 +1,2 @@
-# Hackathon---EPF-GCR
-Konnecta app - Communication app for the community and the government
+# www.konnectaap.co.za
+New

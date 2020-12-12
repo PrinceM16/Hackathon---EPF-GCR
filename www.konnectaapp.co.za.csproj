@@ -319,6 +319,12 @@
     </Content>
     <Content Include="Scripts\knockout.validation.min.js.map" />
     <Content Include="Views\Home\About.cshtml" />
+    <Content Include="Views\Home\My_city.cshtml" />
+    <Content Include="Views\Home\My_Council.cshtml" />
+    <Content Include="Views\Home\For_Me.cshtml" />
+    <Content Include="Views\Home\For_Business.cshtml" />
+    <Content Include="Views\Home\Departments.cshtml" />
+    <Content Include="Views\Home\News.cshtml" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="App_Data\" />
